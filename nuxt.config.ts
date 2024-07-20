@@ -10,6 +10,7 @@ export default defineNuxtConfig({
     },
   },
   app: {
+    buildAssetsDir: 'assets',
     head: {
       title: 'rutwik hiwalkar',
       link: [{ rel: 'icon', type: 'image/x-icon', href: '/plant.png' }]

@@ -6,10 +6,12 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
+    "deploy": "gh-pages -d dist --dotfiles",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "nuxt": "^3.12.4",
     "vue": "latest"
   },
