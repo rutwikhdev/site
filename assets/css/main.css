@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @font-face { */
+/*   font-family: 'GeneralSans'; */
+/*   font-style: normal; */
+/*   font-weight: 400; */
+/*   src: local(''), */
+/*        url('../fonts/GeneralSans-Regular.woff2') format('woff2'), */
+/* } */
+
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/Quicksand-Regular.woff2') format('woff2'),
+}
+@font-face {
+  font-family: 'PixelifySans';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/PixelifySans-Regular.ttf') format('opentype'),
+}
+
+html {
+    cursor: none;
+}
+
+body {
+    background-color: rgb(251 191 36); /*yellow*/
+    background-color: #BD93F9; /*dracula violet*/
+    background-color: rgb(251 146 60); /*orange*/
+    background-color: rgb(234 179 8);  /*dim-yellow*/
+
+    color: rgb(28 25 23);
+
+    font-family: Quicksand;
+}
+
+.title{
+    font-family: PixelifySans;
+}
+
+.circle {
+  height: 14px;
+  width: 14px;
+  border-radius: 3px;
+  background-color: rgb(41 37 36);
+  position: fixed;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 99999999; /* so that it stays on top of all other elements */
+}
