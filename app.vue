@@ -29,7 +29,7 @@
         <a href="https://github.com/rutwikhdev" target="_blank">Github</a>
       </span>
       <span class="border-r-2 border-black border-dashed py-1.5 px-2 hover:bg-amber-300 transition">
-        <a href="resume.pdf" target="_blank">Resume</a>
+        <a href="rutwikresume.pdf" target="_blank">Resume</a>
       </span>
       <span class="py-1.5 px-2 hover:bg-amber-300 transition rounded-r-lg">
         <a href="https://x.com/rutwikhiwalkar_" target="_blank">Twitter</a>
