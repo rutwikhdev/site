@@ -17,8 +17,8 @@
     </div>
 
     <div class="text-center mt-10 flex flex-col">
-      <span class="text-9xl font-semibold tracking-tight text-stone-800 title">rutwik hiwalkar</span>
-      <span class="text-6xl font-semibold mt-4">software engineer building useful cool shit</span>
+      <span class="text-6xl md:text-9xl font-semibold tracking-tight text-stone-800 title">rutwik hiwalkar</span>
+      <span class="text-3xl md:text-6xl font-semibold mt-4">software engineer building useful cool shit</span>
     </div>
 
     <div class="flex border-2 border-black border-dashed rounded-lg text-2xl font-semibold mx-auto w-fit mt-10">
