@@ -25,33 +25,15 @@
        url('../fonts/PixelifySans-Regular.ttf') format('opentype'),
 }
 
-html {
-    cursor: none;
-}
-
 body {
-    background-color: rgb(251 191 36); /*yellow*/
     background-color: #BD93F9; /*dracula violet*/
-    background-color: rgb(251 146 60); /*orange*/
-    background-color: rgb(234 179 8);  /*dim-yellow*/
+    background-color: rgb(196 181 253);
+
 
     color: rgb(28 25 23);
-
     font-family: Quicksand;
 }
 
 .title{
     font-family: PixelifySans;
-}
-
-.circle {
-  height: 14px;
-  width: 14px;
-  border-radius: 3px;
-  background-color: rgb(41 37 36);
-  position: fixed;
-  top: 0;
-  left: 0;
-  pointer-events: none;
-  z-index: 99999999; /* so that it stays on top of all other elements */
 }
