@@ -20,7 +20,7 @@
         <a href="rutwikresume.pdf" target="_blank">Resume</a>
       </span>
       <span class="py-1.5 px-2 hover:bg-violet-400 transition rounded-r-lg">
-        <a href="https://x.com/rutwikhiwalkar_" target="_blank">Twitter</a>
+        <a href="https://x.com/rutwiked" target="_blank">Twitter</a>
       </span>
     </div>
 
